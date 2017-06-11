@@ -1,0 +1,9 @@
+{
+	"id": 1,
+	"name": "Skateboard",
+	"price": 1299,
+	"currency": "SEK",
+	"image": "/static/img/products/1.jpg",
+	"thumbnail": "/static/img/products/1-t.jpg",
+	"description": "This board is the boss!"
+}

@@ -1,0 +1,33 @@
+[
+	{
+		"id": 1,
+		"name": "Skateboard",
+		"price": 1299,
+		"currency": "SEK",
+		"thumbnail": "/static/img/products/1-t.jpg"
+	},
+
+	{
+		"id": 2,
+		"name": "Ball",
+		"price": 145,
+		"currency": "SEK",
+		"thumbnail": "/static/img/products/2-t.jpg"
+	},
+
+	{
+		"id": 3,
+		"name": "Dog Shampoo",
+		"price": 69,
+		"currency": "SEK",
+		"thumbnail": "/static/img/products/3-t.jpg"
+	},
+
+	{
+		"id": 4,
+		"name": "A trip to the sun with Erik",
+		"price": 29000,
+		"currency": "SEK",
+		"thumbnail": "/static/img/products/4-t.jpg"
+	}
+]

@@ -1,0 +1,9 @@
+{
+	"id": 3,
+	"name": "Dog Shampoo",
+	"price": 69,
+	"currency": "SEK",
+	"image": "/static/img/products/3.jpg",
+	"thumbnail": "/static/img/products/3-t.jpg",
+	"description": "Will make your dog look as new! Now with new stimulating formula."
+}

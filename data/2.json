@@ -1,0 +1,9 @@
+{
+	"id": 2,
+	"name": "Ball",
+	"price": 145,
+	"currency": "SEK",
+	"image": "/static/img/products/2.jpg",
+	"thumbnail": "/static/img/products/2-t.jpg",
+	"description": "A simple soccer ball. Not for indoor use."
+}

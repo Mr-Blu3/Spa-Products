@@ -1,0 +1,9 @@
+{
+	"id": 4,
+	"name": "A trip with Erik to the sun",
+	"price": 145,
+	"currency": "SEK",
+	"image": "/static/img/products/4.jpg",
+	"thumbnail": "/static/img/products/4-t.jpg",
+	"description": "This will be a trip you'll never forget! Or give it to your girlfriend or mom."
+}
